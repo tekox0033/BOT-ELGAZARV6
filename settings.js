@@ -23,15 +23,15 @@ global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
 global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.premium = ['9940'] //ur premium number
+global.botname = '𝗕𝗢𝗧 ❪𝗧.𝗢.𝗧❫' //ur bot name
+global.linkz = "https://chat.whatsapp.com/L2YI7XnINHq8AHFVDBQziY" //your theme url which will be displayed on whatsapp
+global.websitex = "" //ur website to be displayed
+global.botscript = '' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "⍣انا مش بني ادم انا بوت⍣" //ur sticker watermark packname
+global.author = "⍣201227133270⍣" //ur sticker watermark author
+global.wm = "𝗕𝗢𝗧 ❪𝗧.𝗢.𝗧❫." //ur watermark
 
 // Other
 global.sessionName = 'session'
